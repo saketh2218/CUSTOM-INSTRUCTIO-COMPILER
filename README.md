@@ -21,6 +21,7 @@ Ensure you have **Python 3** installed on your system.
 2. Open terminal in the project folder.
 3. Run the following command:
 
+
 ```bash
 python3 main.py
 ```
