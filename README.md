@@ -74,9 +74,7 @@ RESULT:
 
 ---
 
-## 📸 Screenshot
 
-![Output Screenshot](./output_screenshot.png)
 
 ---
 
